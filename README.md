@@ -47,8 +47,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo](https://github.com/julienbouze/product-list-cart)
+- Live Site URL: [Vercel Demo](https://product-list-cart.vercel.app/)
 
 ## My process
 
