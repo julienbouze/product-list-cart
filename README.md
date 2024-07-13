@@ -14,7 +14,6 @@ This is a solution to the [Product list with cart challenge on Frontend Mentor](
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -40,7 +39,7 @@ Users should be able to:
 ![](./screenshots/tablet1.png)
 ![](./screenshots/tablet2.png)
 
-#### Desktop
+#### Mobile
 
 ![](./screenshots/mobile1.png)
 ![](./screenshots/mobile2.png)
